@@ -1,0 +1,12 @@
+.inputValue{
+    border: 5px solid black;
+    width:300px;
+    margin-left:10px;
+    height:20px;
+}
+.searchButton{
+    margin-left:15px;
+    width:120px;
+    border-radius:15px;
+    height:27px;
+}

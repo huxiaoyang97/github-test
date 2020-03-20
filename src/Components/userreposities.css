@@ -1,0 +1,35 @@
+.ctnOfCtn{
+    display: flex;
+    border-color: steelblue;
+    border: 5px;
+    justify-content: center;
+    flex-grow: 3;
+    align-content: stretch;
+}
+
+.reposContainer {
+    border: 1px solid black;
+    height: 250px;
+    width: 300px;
+    margin: 10px;
+}
+
+
+.repoName{
+     margin:15px;
+     font-size:20px;
+     font-weight:bold;
+     word-wrap: break-word;
+     text-align: center;
+}
+.repoDes{
+    margin:20px;
+    word-wrap: break-word;
+}
+.repoForks{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.repoStar{
+    text-align: center;
+}

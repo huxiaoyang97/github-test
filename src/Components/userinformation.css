@@ -1,0 +1,19 @@
+.userInfo{
+    display:flex;
+    margin-left:10px;
+}
+.userInfoImg{
+    height:200px;
+    width:200px;
+}
+.userInfoFollower{
+    margin-bottom:30px;
+    font-size: 40px;
+}
+.userInfofollowing{
+    margin-bottom:30px;
+    font-size: 40px;
+}
+.userInfoName{
+    font-size: 40px;
+}
